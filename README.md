@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in JavaScript related to type coercion when comparing values to null. The bug involves using loose equality (==) instead of strict equality (===) which can lead to unexpected results when dealing with null values.  The solution shows how to correct the code for accurate and predictable behavior.
